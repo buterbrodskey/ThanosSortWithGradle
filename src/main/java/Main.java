@@ -2,10 +2,6 @@ import java.util.Arrays;
 public class Main {
 
     public static void main(String[] args) {
-        int[] arr0 = {2, 94, 12, 22, 66, 10, 99, 0};
-        int[] arr1 = {};
-        int[] arr2 = {2, 94, 12, 22, 66, 10, 99};
-        int[] arr3 = {1,1,1,1,1,1,1};
     }
 
     public static void ThanosSort(int[] arr, int l, int r) {
